@@ -21,7 +21,7 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/huhhhh-1e1e2e?style=for-the-badge&logo=html5"></a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/john-1e1e2e?style=for-the-badge&logo=javascript"></a>
             <a href="https://www.python.org"><img src="https://img.shields.io/badge/peter-1e1e2e?style=for-the-badge&logo=python"></a>
-            <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/im_rusting_it_rn-1e1e2e?style=for-the-badge&logo=rust"></a>
+            <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/rectum-1e1e2e?style=for-the-badge&logo=rust"></a>
             <br/>
             i have alphabetically sorted the badges too pls do u think its cool do u
         </div>
